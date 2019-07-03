@@ -21,4 +21,4 @@ Quote.
 
 Chris Cook Founder GARNET8 Limited.
 
-Read the full press release [here]()
+Read the full press release [here](https://garnet8.co.uk/press/press-release-governments-digital-marketplace-gcloud11-software-framework-multi-cloud)
